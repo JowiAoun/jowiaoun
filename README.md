@@ -22,7 +22,7 @@
 
 ## The setup
 
-Drag it. Or hit play, bottom left.
+Drag it or hit play at the bottom left
 
 ```stl
 solid jowi-desk

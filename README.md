@@ -1105,18 +1105,18 @@ endsolid jowi-desk
 
 ## Things I built to avoid doing a thing
 
-| I wanted to | So I built | How it went |
-| :--- | :--- | :--- |
-| learn AWS | a pomodoro timer | [Pomoduro](https://github.com/JowiAoun/Pomoduro) |
-| touch grass | a plant monitor, for indoors | [Plante](https://github.com/JowiAoun/Plante) 🏆🏆 |
-| learn piano | a glove that buzzes the correct finger | [Primo](https://github.com/JowiAoun/Primo-Showcase) 🏆 |
-| put out a fire | a swarm of drones, and the simulator to prove they would | [Firefly](https://github.com/JowiAoun/Firefly) 🏆 |
-| make money | trading algorithms, backtested properly | Sharpe ratio 0.281 💀 [Quant-Development](https://github.com/JowiAoun/Quant-Development) |
-| use the second screen on my laptop | the dock policy, hotkeys, backlight and speaker voicing, from scratch | [linux-on-zenbook-duo](https://github.com/JowiAoun/linux-on-zenbook-duo) |
-| check the weather | a native weather app, in C++ | [Climat](https://github.com/JowiAoun/clima) |
-| know whether a website is a scam | a Chrome extension that asks an LLM | [Surf-Safe](https://github.com/JowiAoun/Surf-Safe) |
-| organise my downloads folder | a Bash script, with CI, Docker and pre-commit | [DirClean](https://github.com/JowiAoun/DirClean) |
-| stop tabbing out of the terminal | a TUI. then another one. then a third | `tools`, `mc`, `rbx` |
+|  | I wanted to | So I built | How it went |
+| :---: | :--- | :--- | :--- |
+| <img src="assets/logos/plante.png" height="20"> | touch grass | a plant monitor, for indoors | [Plante](https://github.com/JowiAoun/Plante) 🏆🏆 |
+| <img src="assets/logos/primo.png" height="20"> | learn piano | a glove that buzzes the correct finger | [Primo](https://github.com/JowiAoun/Primo-Showcase) 🏆 |
+| <img src="assets/logos/firefly.png" height="20"> | put out a fire | a swarm of drones, and the simulator to prove they would | [Firefly](https://github.com/JowiAoun/Firefly) 🏆 |
+| <img src="assets/logos/quantconnect.svg" height="20"> | make money | trading algorithms, backtested properly | Sharpe ratio 0.281 💀 [Quant-Development](https://github.com/JowiAoun/Quant-Development) |
+| <img src="assets/logos/ubuntu.svg" height="20"> | use the second screen on my laptop | the dock policy, hotkeys, backlight and speaker voicing, from scratch | [linux-on-zenbook-duo](https://github.com/JowiAoun/linux-on-zenbook-duo) |
+| <img src="assets/logos/climat.png" height="20"> | check the weather | a native weather app, in C++ | [Climat](https://github.com/JowiAoun/clima) |
+| <img src="assets/logos/surfsafe.png" height="20"> | know whether a website is a scam | a Chrome extension that asks an LLM | [Surf-Safe](https://github.com/JowiAoun/Surf-Safe) |
+| <img src="assets/logos/bash.svg" height="20"> | organise my downloads folder | a Bash script, with CI, Docker and pre-commit | [DirClean](https://github.com/JowiAoun/DirClean) |
+| <img src="assets/logos/terminal.svg" height="20"> | stop tabbing out of the terminal | a TUI. then another one. then a third | `tools`, `mc`, `rbx` |
+| <img src="assets/logos/tomato.svg" height="20"> | learn AWS | a pomodoro timer | [Pomoduro](https://github.com/JowiAoun/Pomoduro) |
 
 ## Stack
 

@@ -191,27 +191,9 @@ endsolid zenbook-duo
 | organise my downloads folder | a Bash script, with CI, Docker and pre-commit | [DirClean](https://github.com/JowiAoun/DirClean) |
 | stop tabbing out of the terminal | a TUI. then another one. then a third | `tools`, `mc`, `rbx` |
 
-## Where my repositories actually sit
+## The stack
 
-```mermaid
-quadrantChart
-    x-axis Nobody uses it --> People use it
-    y-axis Abandoned --> Still shipping
-    quadrant-1 actual software
-    quadrant-2 for me, by me
-    quadrant-3 the graveyard
-    quadrant-4 sorry
-    linux-on-zenbook-duo: [0.72, 0.95]
-    Climat: [0.56, 0.88]
-    dome: [0.28, 0.82]
-    n8n: [0.18, 0.45]
-    Primo: [0.52, 0.42]
-    Plante: [0.58, 0.30]
-    rate-my-professors-wrapper: [0.70, 0.12]
-    DirClean: [0.62, 0.10]
-    Pomoduro: [0.16, 0.08]
-    OpenWorldGame2D: [0.04, 0.04]
-```
+<img src="assets/stack.svg" alt="Tech stack" width="900">
 
 Currently making a laptop that was never meant to run Linux run Linux.
 

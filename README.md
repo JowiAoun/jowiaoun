@@ -1,5 +1,5 @@
 <a href="https://github.com/JowiAoun/linux-on-zenbook-duo">
-  <img src="assets/neofetch.svg" alt="jowi@zenbook-duo, running Linux on both screens" width="780">
+  <img src="assets/neofetch.svg" alt="jowi@zenbook-duo, running Linux on both screens" width="900">
 </a>
 
 ## Things I built to avoid doing a thing

@@ -1,4 +1,6 @@
-<img src="assets/neofetch.svg" alt="jowi@zenbook-duo" width="780">
+<a href="https://github.com/JowiAoun/linux-on-zenbook-duo">
+  <img src="assets/neofetch.svg" alt="jowi@zenbook-duo, running Linux on both screens" width="780">
+</a>
 
 ## The machine in question
 
@@ -184,6 +186,7 @@ endsolid zenbook-duo
 | learn AWS | a pomodoro timer | [Pomoduro](https://github.com/JowiAoun/Pomoduro) |
 | touch grass | a plant monitor, for indoors | [Plante](https://github.com/JowiAoun/Plante) 🏆🏆 |
 | learn piano | a glove that buzzes the correct finger | [Primo](https://github.com/JowiAoun/Primo-Showcase) 🏆 |
+| put out a fire | a swarm of drones, and the simulator to prove they would | [Firefly](https://github.com/JowiAoun/Firefly) 🏆 |
 | make money | trading algorithms, backtested properly | Sharpe ratio 0.281 💀 [Quant-Development](https://github.com/JowiAoun/Quant-Development) |
 | use the second screen on my laptop | the dock policy, hotkeys, backlight and speaker voicing, from scratch | [linux-on-zenbook-duo](https://github.com/JowiAoun/linux-on-zenbook-duo) |
 | check the weather | a native weather app, in C++ | [Climat](https://github.com/JowiAoun/clima) |

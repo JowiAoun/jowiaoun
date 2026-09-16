@@ -191,10 +191,8 @@ endsolid zenbook-duo
 | organise my downloads folder | a Bash script, with CI, Docker and pre-commit | [DirClean](https://github.com/JowiAoun/DirClean) |
 | stop tabbing out of the terminal | a TUI. then another one. then a third | `tools`, `mc`, `rbx` |
 
-## The stack
+## Stack
 
 <img src="assets/stack.svg" alt="Tech stack" width="900">
-
-Currently making a laptop that was never meant to run Linux run Linux.
 
 <sub>[Devpost](https://devpost.com/jowiaoun) · [LinkedIn](https://www.linkedin.com/in/jowiaoun/)</sub>

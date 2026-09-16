@@ -1,30 +1,60 @@
-# Jowi Aoun
+```
+    ┌────────────────┐    jowi@zenbook-duo
+    │                │    ─────────────────────────────────────────────
+    │                │    OS          Ubuntu 24.04, dual-booted by hand
+    └────────────────┘    Host        ASUS Zenbook Duo UX8406MA
+    ┌────────────────┐    WM          GNOME on Wayland
+    │                │    Displays    2, and one of them is the keyboard
+    │                │    Shell       zsh
+    └────────────────┘    Uptime      5 years, 4 months
+                          Packages    32 public, 34 private
+                          Terminal    usually running something I wrote
+                          Location    Ottawa, ON
 
-<p float='left'>
-    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900" height="22"/>
-    <img src='https://img.shields.io/badge/Python-306998?logo=Python&logoColor=FFD43B' height=22/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?logo=oracle&logoColor=white" height="22"/>
-    <img src='https://img.shields.io/badge/Javascript-323330?logo=javascript' height=22/>
-    <img src='https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=fff' height=22/>
-    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="22"/>
-    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=FFFFFF" height="22"/>
-    <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=FFFFFF" height="22"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=FFFFFF" height="22"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=FFFFFF" height="22"/>
-    <img src='https://img.shields.io/badge/React-20232a?logo=React&logoColor=61DAFB' height=22/>
-    <img src='https://img.shields.io/badge/NodeJS-339933?logo=Node.js&logoColor=fff' height=22/>
-    <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" height="22"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="22"/>
-    <img src='https://img.shields.io/badge/HTML5-fff?logo=HTML5' height=22/>
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" height="22"/>
-    <img src='https://img.shields.io/badge/CSS-1572B6?logo=CSS3' height=22/>
-</p>
+                          C++         ████████  1.98 MB
+                          TypeScript  ███████   1.81 MB
+                          QML         ██████    1.49 MB
+                          Python      ███        746 KB
+                          Shell       ██         537 KB
+```
 
-Hey! My name is Jowi. Love everything to do with servers, cloud, databases, and automation.
+## Things I built to avoid doing a thing
 
-Eager to learn new things every day, whatever it could be, and love to work in teams. Do contact me!
+| I wanted to | So I built | How it went |
+| :--- | :--- | :--- |
+| learn AWS | a pomodoro timer | [Pomoduro](https://github.com/JowiAoun/Pomoduro) |
+| touch grass | a plant monitor, for indoors | [Plante](https://github.com/JowiAoun/Plante) 🏆🏆 |
+| learn piano | a glove that buzzes the correct finger | [Primo](https://github.com/JowiAoun/Primo-Showcase) 🏆 |
+| make money | trading algorithms, backtested properly | Sharpe ratio 0.281 💀 [Quant-Development](https://github.com/JowiAoun/Quant-Development) |
+| use the second screen on my laptop | the dock policy, hotkeys, backlight and speaker voicing, from scratch | [linux-on-zenbook-duo](https://github.com/JowiAoun/linux-on-zenbook-duo) |
+| check the weather | a native weather app, in C++ | [Climat](https://github.com/JowiAoun/clima) |
+| know whether a website is a scam | a Chrome extension that asks an LLM | [Surf-Safe](https://github.com/JowiAoun/Surf-Safe) |
+| organise my downloads folder | a Bash script, with CI, Docker and pre-commit | [DirClean](https://github.com/JowiAoun/DirClean) |
+| stop tabbing out of the terminal | a TUI. then another one. then a third | `tools`, `mc`, `rbx` |
+| flip items in a video game market | a CLI with SMS alerts, deployed to Oracle Cloud | it still runs |
 
-## Find me on
-[![](https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/jowiaoun/)
-[![](https://img.shields.io/badge/-Devpost-003e54?style=flat-square&logo=Devpost&logoColor=fff)](https://devpost.com/jowiaoun)
-[![](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=fff)](https://leetcode.com/JowiA/)
+## Where my repositories actually sit
+
+```mermaid
+quadrantChart
+    x-axis Nobody uses it --> People use it
+    y-axis Abandoned --> Still shipping
+    quadrant-1 actual software
+    quadrant-2 for me, by me
+    quadrant-3 the graveyard
+    quadrant-4 sorry
+    linux-on-zenbook-duo: [0.72, 0.95]
+    Climat: [0.56, 0.88]
+    dome: [0.28, 0.82]
+    Gaijin-Market-CLI: [0.07, 0.74]
+    Primo: [0.52, 0.42]
+    Plante: [0.58, 0.30]
+    rate-my-professors-wrapper: [0.70, 0.12]
+    DirClean: [0.62, 0.10]
+    Pomoduro: [0.16, 0.08]
+    OpenWorldGame2D: [0.04, 0.04]
+```
+
+Currently making a laptop that was never meant to run Linux run Linux.
+
+<sub>[Devpost](https://devpost.com/jowiaoun) · [LinkedIn](https://www.linkedin.com/in/jowiaoun/)</sub>

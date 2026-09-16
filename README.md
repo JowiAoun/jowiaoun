@@ -2,6 +2,10 @@
   <img src="assets/neofetch.svg" alt="jowi@zenbook-duo, running Linux on both screens" width="900">
 </a>
 
+## Stack
+
+<img src="assets/stack.svg" alt="Tech stack" width="900">
+
 ## Things I built to avoid doing a thing
 
 |  | I wanted to | So I built | How it went |
@@ -15,10 +19,6 @@
 | <img src="assets/logos/surfsafe.png" height="20"> | know whether a website is a scam | a Chrome extension that asks an LLM | [Surf-Safe](https://github.com/JowiAoun/Surf-Safe) |
 | <img src="assets/logos/bash.svg" height="20"> | organise my downloads folder | a Bash script, with CI, Docker and pre-commit | [DirClean](https://github.com/JowiAoun/DirClean) |
 | <img src="assets/logos/tomato.svg" height="20"> | learn cloud infra | a pomodoro timer | [Pomoduro](https://github.com/JowiAoun/Pomoduro) |
-
-## Stack
-
-<img src="assets/stack.svg" alt="Tech stack" width="900">
 
 ## The setup
 

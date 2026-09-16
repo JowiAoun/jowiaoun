@@ -1,21 +1,180 @@
-```
-    ┌────────────────┐    jowi@zenbook-duo
-    │                │    ─────────────────────────────────────────────
-    │                │    OS          Ubuntu 24.04, dual-booted by hand
-    └────────────────┘    Host        ASUS Zenbook Duo UX8406MA
-    ┌────────────────┐    WM          GNOME on Wayland
-    │                │    Displays    2, and one of them is the keyboard
-    │                │    Shell       zsh
-    └────────────────┘    Uptime      5 years, 4 months
-                          Packages    32 public, 34 private
-                          Terminal    usually running something I wrote
-                          Location    Ottawa, ON
+<img src="assets/neofetch.svg" alt="jowi@zenbook-duo" width="780">
 
-                          C++         ████████  1.98 MB
-                          TypeScript  ███████   1.81 MB
-                          QML         ██████    1.49 MB
-                          Python      ███        746 KB
-                          Shell       ██         537 KB
+## The machine in question
+
+Drag it.
+
+```stl
+solid zenbook-duo
+facet normal 0 0 -1
+outer loop
+vertex -70 -47.5 0
+vertex -70 47.5 0
+vertex 70 47.5 0
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex -70 -47.5 0
+vertex 70 47.5 0
+vertex 70 -47.5 0
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex -70 -47.5 6
+vertex 70 -47.5 6
+vertex 70 47.5 6
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex -70 -47.5 6
+vertex 70 47.5 6
+vertex -70 47.5 6
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -70 -47.5 0
+vertex 70 -47.5 0
+vertex 70 -47.5 6
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -70 -47.5 0
+vertex 70 -47.5 6
+vertex -70 -47.5 6
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 70 -47.5 0
+vertex 70 47.5 0
+vertex 70 47.5 6
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 70 -47.5 0
+vertex 70 47.5 6
+vertex 70 -47.5 6
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 70 47.5 0
+vertex -70 47.5 0
+vertex -70 47.5 6
+endloop
+endfacet
+facet normal 0 1 -0
+outer loop
+vertex 70 47.5 0
+vertex -70 47.5 6
+vertex 70 47.5 6
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -70 47.5 0
+vertex -70 -47.5 0
+vertex -70 -47.5 6
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -70 47.5 0
+vertex -70 -47.5 6
+vertex -70 47.5 6
+endloop
+endfacet
+facet normal 0 -0.97 0.26
+outer loop
+vertex -70 72.09 97.76
+vertex -70 47.5 6
+vertex 70 47.5 6
+endloop
+endfacet
+facet normal 0 -0.97 0.26
+outer loop
+vertex -70 72.09 97.76
+vertex 70 47.5 6
+vertex 70 72.09 97.76
+endloop
+endfacet
+facet normal 0 0.97 -0.26
+outer loop
+vertex -70 77.88 96.21
+vertex 70 77.88 96.21
+vertex 70 53.3 4.45
+endloop
+endfacet
+facet normal 0 0.97 -0.26
+outer loop
+vertex -70 77.88 96.21
+vertex 70 53.3 4.45
+vertex -70 53.3 4.45
+endloop
+endfacet
+facet normal -0 0.26 0.97
+outer loop
+vertex -70 72.09 97.76
+vertex 70 72.09 97.76
+vertex 70 77.88 96.21
+endloop
+endfacet
+facet normal 0 0.26 0.97
+outer loop
+vertex -70 72.09 97.76
+vertex 70 77.88 96.21
+vertex -70 77.88 96.21
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 70 72.09 97.76
+vertex 70 47.5 6
+vertex 70 53.3 4.45
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 70 72.09 97.76
+vertex 70 53.3 4.45
+vertex 70 77.88 96.21
+endloop
+endfacet
+facet normal -0 -0.26 -0.97
+outer loop
+vertex 70 47.5 6
+vertex -70 47.5 6
+vertex -70 53.3 4.45
+endloop
+endfacet
+facet normal 0 -0.26 -0.97
+outer loop
+vertex 70 47.5 6
+vertex -70 53.3 4.45
+vertex 70 53.3 4.45
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -70 47.5 6
+vertex -70 72.09 97.76
+vertex -70 77.88 96.21
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -70 47.5 6
+vertex -70 77.88 96.21
+vertex -70 53.3 4.45
+endloop
+endfacet
+endsolid zenbook-duo
 ```
 
 ## Things I built to avoid doing a thing
@@ -31,7 +190,6 @@
 | know whether a website is a scam | a Chrome extension that asks an LLM | [Surf-Safe](https://github.com/JowiAoun/Surf-Safe) |
 | organise my downloads folder | a Bash script, with CI, Docker and pre-commit | [DirClean](https://github.com/JowiAoun/DirClean) |
 | stop tabbing out of the terminal | a TUI. then another one. then a third | `tools`, `mc`, `rbx` |
-| flip items in a video game market | a CLI with SMS alerts, deployed to Oracle Cloud | it still runs |
 
 ## Where my repositories actually sit
 
@@ -46,7 +204,7 @@ quadrantChart
     linux-on-zenbook-duo: [0.72, 0.95]
     Climat: [0.56, 0.88]
     dome: [0.28, 0.82]
-    Gaijin-Market-CLI: [0.07, 0.74]
+    n8n: [0.18, 0.45]
     Primo: [0.52, 0.42]
     Plante: [0.58, 0.30]
     rate-my-professors-wrapper: [0.70, 0.12]
